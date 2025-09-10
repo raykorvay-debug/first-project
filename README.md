@@ -1,1 +1,1 @@
-# first-project Aiscouts
+# first-project AiScouts
